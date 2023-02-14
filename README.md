@@ -2,11 +2,11 @@
 
 <b>Usage:</b>
 
-- Make
-To compile the files into libft.a library.
+- Make 
+<br>to compile the files into libft.a library.</br>
 - Make clean
-To clean the .o files.
+<br>to clean the .o files.</br>
 - Make fclean
-To clean the .o files and .a file.
+<br>to clean the .o files and .a file.</br>
 - Make re
-To remake.
+<br>to remake.</br>
