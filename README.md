@@ -1,4 +1,4 @@
-# My libft contains C language function library which I have wrote.
+# My libft contains C language function library which I wrote.
 
 <b>Usage:</b>
 
